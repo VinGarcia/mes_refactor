@@ -1,0 +1,467 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_tables"
+			],
+			[
+				"ViasAerea",
+				"ViasAereasEspecificar"
+			],
+			[
+				"observa",
+				"observation"
+			],
+			[
+				"fir",
+				"first_child_atv"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"instance",
+				"instanceIndex"
+			],
+			[
+				"ins",
+				"instanceIndex"
+			],
+			[
+				"comp",
+				"complicNeuro"
+			],
+			[
+				"exame",
+				"exameComp"
+			],
+			[
+				"first",
+				"firstActivity"
+			],
+			[
+				"instan",
+				"instanceIndex"
+			],
+			[
+				"chil",
+				"childID"
+			],
+			[
+				"getChil",
+				"getChildID"
+			],
+			[
+				"obser",
+				"observation"
+			],
+			[
+				"get",
+				"getKey"
+			],
+			[
+				"undef",
+				"undef_father"
+			],
+			[
+				"parameters",
+				"parametersToRCode"
+			],
+			[
+				"rScript",
+				"rScriptWorkingDirectory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bare_adv.tex",
+			"settings":
+			{
+				"buffer_size": 58441,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/make_run.sublime-build",
+	"command_palette":
+	{
+		"height": 212.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":e",
+				":$ - EOF"
+			],
+			[
+				":ww",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				":t",
+				"View: Toggle Minimap"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				":q",
+				"Snippet: Equation"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 256.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/mnt/d/Fox/.config/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/webbot.js.bkp.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/buildTables.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/my_knex.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/knex.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/webbot.py",
+		"/home/fox/serios/luar/relatorios/relatorio_2014-1/LaTeX do Relatorio/relatorio_ojb.sublime-project",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/exemplos_com_videos_em_python/vplayer.py",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/.talkin.sublime-project",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/artigo-CTTX/r-no-flux-2014-04-14-vingarcia.tex",
+		"/mnt/d/Fox/temp/temp.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/artigo-CTTX/r-no-flux-2014-04-14-vingarcia.txt",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/template_luar.tex",
+		"/mnt/d/Fox/serios/luar/svn/flux20/src/trunk/Flux2/src/br/ufmg/dcc/luar/flux/service/rserve/RCall2.java",
+		"/mnt/d/Fox/serios/luar/svn/flux20/src/trunk/Flux2/src/br/ufmg/dcc/luar/flux/service/rserve/RStat2.java",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/citotoxidade/scriptR/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/Trabalho OJB/Relatorios OJB/Relatorio atividades 2013-2 para o OJB/LaTeX do Relatorio/relatorio.tex",
+		"/mnt/d/Fox/temp/fabrica_de_slides/template_luar.tex",
+		"/mnt/d/Fox/temp/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/flux/fluxdev/fluxdev/doc/r_no_flux/documentacao_r.tex",
+		"/home/fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/resenha-desonra.tex",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/mnt/d/Fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/resenha-desonra.tex",
+		"/home/fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/abnt-classe-doc.tex",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/flux/fluxdev/fluxdev/doc/r_no_flux/Makefile",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/make_run.sublime-build",
+		"/home/garcia/workspace/citotoxidade-INMETRO/citotoxidade/scriptR/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/Makefile",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/sftp",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/vocabulario.talk",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/padrao.cpp",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/Makefile",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/main.cpp",
+		"/mnt/d/Fox/teste.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"table",
+			"graphicx",
+			"V",
+			"conclusion",
+			"touple",
+			"RefDetectorjs",
+			"Danilo",
+			"Danilo Silva",
+			"inst.id + '\\'",
+			"instNum",
+			"identificacao",
+			"already",
+			"('",
+			"antes do click",
+			"encerramento",
+			"identificacao",
+			"message",
+			"Log",
+			"errNum",
+			"click",
+			"this.log",
+			"casper.log",
+			"Date",
+			"inst.identificacao",
+			"numProntuario",
+			"saveState",
+			"webbot.log",
+			"log",
+			"webbot",
+			"webbot.log",
+			"log(",
+			"atv.atv_nome",
+			"log",
+			"num",
+			"catch(err)",
+			"num",
+			"saveState",
+			"this.snaps",
+			"num",
+			"inst.childs[0]",
+			"' - '",
+			"var atv = inst.childs[0][",
+			"// TODO: adicioanr log de erros.",
+			"this.waitForClick('div[id=",
+			"if(ERROR || ",
+			"estado",
+			"log",
+			"estado",
+			"num",
+			"fillSel",
+			"fillS",
+			"num",
+			"outro",
+			"['observations",
+			"atv['observations']",
+			"num",
+			"multi",
+			"num",
+			"snapshot();",
+			"snap",
+			"num",
+			"casper.",
+			"click",
+			"waitFor",
+			"num",
+			"float",
+			"num",
+			"fixInterger",
+			"identifica",
+			"num",
+			"Int",
+			"fixDate",
+			"num",
+			"Data",
+			"Admissao",
+			"data",
+			"num",
+			"if(ERROR) return;",
+			"true",
+			"  }, function(err){ ERROR=true; console.log(\"A etapa falhou! \" + err);});",
+			"  }, function(err){ ERROR=true; console.log(\"A etapa falhou! \" + err);})",
+			", func",
+			"});",
+			"casper.then",
+			"inser",
+			"var atv =",
+			"atv.",
+			"instance",
+			"erro",
+			"childsAtvs",
+			"internacao",
+			"getChild",
+			"log",
+			"instance",
+			"child",
+			":",
+			"getChildID",
+			"atv2",
+			"instanceIndex[",
+			"if(typeof",
+			".exit",
+			"if(atv",
+			"getChildID",
+			"GetChildID",
+			"childID",
+			"childid",
+			"atv",
+			"if(instance",
+			"[",
+			".]",
+			",",
+			"getChildID",
+			"log",
+			"false",
+			"keepDuplicates",
+			"getChild",
+			":",
+			"change",
+			"=",
+			"instances",
+			"internacao",
+			";",
+			"instances",
+			"var ",
+			"getChild",
+			";",
+			":",
+			"="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tuple",
+			"RefDetectorJS",
+			"this.Log",
+			"atv_nome",
+			"child",
+			"' -> '",
+			"atv['observation']",
+			"this.snapshot();",
+			"fixInteger",
+			"if(ERROR || inst.onFlux) return;",
+			"  });",
+			"  }, function(err){ ERROR=true; console.log(\"A etapa falhou! \" + err);});",
+			"}, func",
+			", function(err){ ERROR=true; console.log(\"A etapa falhou! \" + err);})",
+			"atv",
+			"dropDuplicates",
+			"instanceIndex",
+			"// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+			"this.waitForClick",
+			"getCurrentUrl",
+			"gerCurrentUrl",
+			"",
+			"this.waitForClick",
+			"waitForClick",
+			"getVar"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bare_adv.tex",
+					"settings":
+					{
+						"buffer_size": 58441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47286,
+								47286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12805.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 625.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,493 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.10.31)  26 NOV 2014 18:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**bare_adv.tex
+(./bare_adv.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 79 languages loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
+istensen
+-- Based on V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 373.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 731.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count92
+\lst@gtempboxa=\box27
+\lst@token=\toks16
+\lst@length=\count93
+\lst@currlwidth=\dimen119
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen120
+\lst@width=\dimen121
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen122
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box28
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+) (./bare_adv.aux)
+\openout1 = `bare_adv.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 606.
+LaTeX Font Info:    ... okay on input line 606.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 606.
+LaTeX Font Info:    ... okay on input line 606.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 606.
+LaTeX Font Info:    ... okay on input line 606.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 606.
+LaTeX Font Info:    ... okay on input line 606.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 606.
+LaTeX Font Info:    ... okay on input line 606.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 606.
+LaTeX Font Info:    ... okay on input line 606.
+
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen123
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen124
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count106
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 728.
+
+
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Missing character: There is no Ã in font phvr7t!
+Missing character: There is no ­ in font phvr7t!
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 728.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 728.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 728.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14> on input line 728.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.79996> on input line 728.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 728.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 728.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 728.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 728.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 728.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 755.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <14> not available
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 755.
+
+Underfull \hbox (badness 6493) in paragraph at lines 792--800
+[]\OT1/ppl/m/sc/12 efactoring \OT1/ppl/m/n/12 is a fre-quent and well
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--800
+\OT1/ppl/m/n/12 char-ac-ter-ized be-hav-ior that can be
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 792--800
+\OT1/ppl/m/n/12 used to eval-u-ate and try to un-der-stand
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 792--800
+\OT1/ppl/m/n/12 com-puter pro-grams. To help these stud-ies
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 792--800
+\OT1/ppl/m/n/12 refac-tor-ing and re-turn use-ful in-for-ma-tion
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 792--800
+\OT1/ppl/m/n/12 Mi-nas Gerais (UFMG) and aim refac-tor-ing
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 792--800
+\OT1/ppl/m/n/12 the de-vel-op-ment of a sec-ond tool called
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--800
+
+ []
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 804)
+ Forcing the drop letter font size to 10pt.
+Missing character: There is no Ã in font pplr7t!
+Missing character: There is no Ÿ in font pplr7t!
+
+Underfull \hbox (badness 3049) in paragraph at lines 804--812
+\OT1/ppl/m/n/12 can-di-dates be-tween the two ver-sions and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--812
+
+ []
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 813)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--817
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 824.
+** WARNING: IEEEPARstart drop letter has zero height! (line 826)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 832)
+ Forcing the drop letter font size to 10pt.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+** WARNING: IEEEPARstart drop letter has zero height! (line 839)
+ Forcing the drop letter font size to 10pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 842.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 842.
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--842
+
+ []
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 845)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 846)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 853)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--855
+
+ []
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 866)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--871
+
+ []
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 876)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 877)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 880)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 885)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 888)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--891
+
+ []
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 900)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 901)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 907)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 907--912
+
+ []
+
+[2]
+** WARNING: IEEEPARstart drop letter has zero height! (line 917)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 918)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 925)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--927
+
+ []
+
+
+Overfull \hbox (480.70274pt too wide) in paragraph at lines 929--960
+[][] 
+ []
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 966)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 969)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 971)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 977)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 979)
+ Forcing the drop letter font size to 10pt.
+[3]
+** WARNING: IEEEPARstart drop letter has zero height! (line 983)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 983--984
+
+ []
+
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 986.
+
+
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+** WARNING: IEEEPARstart drop letter has zero height! (line 992)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 994)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--995
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 1058)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 1059)
+ Forcing the drop letter font size to 10pt.
+** WARNING: IEEEPARstart drop letter has zero height! (line 1166)
+ Forcing the drop letter font size to 10pt.
+Missing character: There is no Ã in font pplr7t!
+Missing character: There is no Ÿ in font pplr7t!
+[4] [5
+
+] (./bare_adv.aux) ) 
+Here is how much of TeX's memory you used:
+ 3732 strings out of 493108
+ 56474 string characters out of 6140724
+ 178492 words of memory out of 5000000
+ 7143 multiletter control sequences out of 15000+600000
+ 45881 words of font info for 97 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 38i,13n,45p,825b,1413s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf-d
+ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/h
+elvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><
+/usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texmf-di
+st/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/p
+alatino/uplri8a.pfb></usr/share/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on bare_adv.pdf (5 pages, 136460 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
