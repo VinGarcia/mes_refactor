@@ -1,0 +1,4 @@
+
+
+all:
+	node similarity.js
